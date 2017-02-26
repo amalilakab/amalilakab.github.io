@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Difficult to say, easy to watch."
+title                    : " Title Difficult to say, easy to watch."
 title_separator          : "|"
 name                     : "Amalilakab"
-description              : "Difficult to say, easy to watch."
+description              : "Test Description"
 url                      : "https://amalilakab.tv"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "amalilakab/amalilakab.github.io"
