@@ -13,7 +13,7 @@ name                     : "Amalilakab"
 description              : "Difficult to say, easy to watch."
 url                      : https://amalilakab.tv
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "amalilakab/amalilakab.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Difficult to say, easy to watch."
   location         : "California, USA"
-  email            :
+  email            : "amalilakab@gmail.com
   uri              :
   bitbucket        :
   codepen          :
