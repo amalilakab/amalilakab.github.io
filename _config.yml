@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amalilakab"
+  name             : 
   avatar           : "/assets/logo1.jpg"
-  bio              : "Difficult to say, easy to watch."
+  bio              : 
   location         : 
-  email            : "amalilakab@gmail.com"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "amalilakab"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
@@ -102,11 +102,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "amalilakab"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCtqiMPH_hSzg80BV-7dCP4Q"
+  youtube          : 
 
 
 # Reading Files
