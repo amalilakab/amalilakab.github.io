@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Amalilakab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "amalilakab.github.io/assets/logo1.jpg"
   bio              : "Difficult to say, easy to watch."
   location         : "California, USA"
   email            : "amalilakab@gmail.com"
