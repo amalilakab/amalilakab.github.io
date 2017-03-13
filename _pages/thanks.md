@@ -17,7 +17,7 @@ Terabyte: Thank you for so much. Are you my biggest fan?
 
 [Wangninja](http://toothmang.com/share/thefastmaster.mp3) - Early supporter and genius behind Buck Fros.
 
-----------------------------------------------
+
 Donors ($50+) - Thank you so much guys:
 
 TooManyBadgers - $217.97
@@ -28,7 +28,7 @@ Terabyte26 - $149.37 + Blue Yeti Mic
 
 Connor3976 - Box of snacks from Australia
 
----------------------------------------------
+
 Donated games:
 
 Undeadstab - GTA5
