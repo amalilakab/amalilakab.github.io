@@ -4,8 +4,8 @@ main:
     url: https://twitch.tv/amalilakab
   - title: "Schedule"
     url: https://calendar.google.com/calendar/embed?src=hmoomlmhsarn7l8mdsd32oqumo%40group.calendar.google.com
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Thanks"
+    url: /thanks/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
