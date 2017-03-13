@@ -1,3 +1,7 @@
+---
+permalink: /thanks/
+---
+defaults:
   # _pages
   - scope:
       path: ""
